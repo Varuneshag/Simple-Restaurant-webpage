@@ -1,0 +1,14 @@
+body{
+	background-color: white;
+	font-size: 19px;
+	color: #fff;
+    font-family: 'Oxygen Mono', monospace;
+    }
+
+ /**HEADER**/
+ #header-nav{
+ 	background-color: black;
+    /*height: 155px;*/ 
+    border-radius: 0;
+    border: 0;
+ }
