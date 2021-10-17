@@ -3,7 +3,7 @@ Coursera Project repository
 
 Hey There, 
 
-I have tried to created very Simple Restarant Webpage
+I have tried to created Simple Restarant Webpage
 
 Using: HTML, CSS, JavaScript, Bootstrap
 
